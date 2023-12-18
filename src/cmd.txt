@@ -1,0 +1,20 @@
+https://www.django-rest-framework.org/
+
+extensions 
+rapidapi client => postman
+thunder api => postman
+error lens  =>python realtime error detector
+https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+
+
+python -m venv .venv
+pip list ==> buildin+user installed
+pip freeze ==> user installed
+pip install djangorestframework =>install drf(django+restframework)
+django-admin    ==>django commands
+django-admin startproject aproject .        ==>creating project
+django-admin startapp bapp        ==>creating app
+python manage.py startapp bapp        ==>creating app
+python manage.py migrate    ==>1st time models.py table creation
+python manage.py createsuperuser    ==>admin panel login details
+

@@ -18,3 +18,12 @@ python manage.py startapp bapp        ==>creating app
 python manage.py migrate    ==>1st time models.py table creation
 python manage.py createsuperuser    ==>admin panel login details
 
+amazon.in/login
+amazon.in/api/login
+amazon.in/api/register
+
+GET
+POST
+PUT
+PATCH
+DELETE
